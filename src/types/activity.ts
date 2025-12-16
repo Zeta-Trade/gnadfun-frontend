@@ -1,0 +1,1 @@
+export interface Activity { id: number; time: string; type: 'Buy' | 'Sell'; usd: number; tokens: string; bnb: number; address: string; }
