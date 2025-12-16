@@ -109,7 +109,7 @@ export function useWallet() {
 
   const connectWallet = useCallback(async () => {
     if (!isMetaMaskAvailable) {
-      setWalletError("MetaMask is not available in this browser.");
+      setWalletError("Plz install metaMask extension to connect wallet.");
       return false;
     }
 
