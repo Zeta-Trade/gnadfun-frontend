@@ -3,7 +3,7 @@
 **Professional Polymarket Bot for Automated Arbitrage Trading for suitable income**
 
 > **Need help running this project or want an updated version?**  
-> 📱 **Telegram**: [@qntrade](https://t.me/qntrade)  
+> 📱 [Telegram](https://t.me/qntrade)  
 ---
 
 ## 📝 Description
@@ -235,7 +235,7 @@ This project is freely available for educational purposes.
 
 ## 📱 Contact
 
-Telegram: [@qntrade](https://t.me/qntrade)
+[Telegram](https://t.me/qntrade)
 
 ---
 
